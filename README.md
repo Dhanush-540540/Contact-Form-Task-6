@@ -26,4 +26,4 @@ On successful validation, it displays a success message without actually sending
 ## 📦 How to Use
 1. Clone this repository:
    ```bash
-   git clone "https://github.com/PREEETHAMK/-Contact--form.git"
+   git clone "https://github.com/Dhanush-540540/Contact-Form-Task-6.git"
